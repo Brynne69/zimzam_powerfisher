@@ -14,7 +14,8 @@ public class zimzam_powerFisher extends PollingScript<ClientContext>{
     
     @Override
     public void start(){
-        log.info("nigger");
+        log.info("hi");
+        log.info("hello");
     }
     
     @Override
